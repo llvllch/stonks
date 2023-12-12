@@ -131,7 +131,7 @@ A demo of some of the features:
 # Hardware
 
 - The code runs on a Rasperry Pi connected to a 6 inch HD waveshare epaper display
-- The fancypants frame was custom made for the project - we've got some assembled ones for sale at [veeb.ch](https://www.veeb.ch/store/p/tickerxl)
+- The metal frame was custom made for the project - we've got some assembled ones for sale at [veeb.ch](https://www.veeb.ch/store/p/tickerxl)
 
 # Contributing
 
