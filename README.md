@@ -10,11 +10,11 @@
 
 Big Audrey pulls the stuff that you've told it you're intersted in from the internet, then displays it in pleasingly crispy fonts on a 6 inch HD epaper screen. The script currently randomly chooses from 5 functions every x seconds and refreshes the display:
 
+- Cryptocurrency Dashboard
 - Quote (from Reddit [r/quotes](https://reddit.com/r/quotes))
 - Word of the day (from [wordsmith.org](https://wordsmith.org))
 - Headline (From an RSS feed) (With QR code link to the article)
 - Cartoon (From The New Yorker)
-- Cryptocurrency Dashboard
 - Quote (from [Stoic Quotes](https://stoic-quotes.com))
 
 ## Functions
